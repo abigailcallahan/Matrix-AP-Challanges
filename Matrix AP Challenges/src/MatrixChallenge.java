@@ -13,7 +13,6 @@ public class MatrixChallenge
 			maxNum();
 			minNum();
 			averageNum();
-			
 			}
 		
 			public static void maxNum()
